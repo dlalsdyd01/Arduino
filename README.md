@@ -12,7 +12,7 @@
 https://github.com/user-attachments/assets/a654307f-c4e4-4833-9de8-8afbc69035dd  
 
 
-'''
+```
 
 #include <SoftwareSerial.h> //라이브러리를 이용
 #include <Servo.h>
@@ -198,4 +198,4 @@ void loop()
   }
 }
 
-'''
+```
